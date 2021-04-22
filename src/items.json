@@ -88,7 +88,7 @@
                 "price": 10,
                 "rate":3,
                 "long_description": "The preferred choice of a vast range of acclaimed DJs. Punchy, bass-focused sound and high isolation. Sturdy headband and on-ear cushions suitable for live performance",
-                "color": "black",
+                "color": "#ff796d",
                 "features": [
                     "Smudge Free",
                     "Water Proof",
@@ -98,8 +98,8 @@
         ]
     },
     {
-        "product": "Lipstick",
-        "img": "assets/2.jpg",
+        "product": "Eyeshadows",
+        "img": "assets/3.jpg",
         "short_description": "upto 10% on branded Lipsticks",
         "list": [
             {
