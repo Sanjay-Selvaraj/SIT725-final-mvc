@@ -100,14 +100,14 @@
     {
         "product": "Eyeshadows",
         "img": "assets/3.jpg",
-        "short_description": "upto 10% on branded Lipsticks",
+        "short_description": "upto 30% on branded Lipsticks",
         "list": [
             {
-                "name": "Berry Shy",
-                "img": "assets/lipstick/berry%20shy.jpg",
+                "name": "Tuscan Sun",
+                "img": "assets/Eyeshadows/4.jpg",
                 "discount": 5,
                 "saleSate": "sold",
-                "price": 10,
+                "price": 18,
                 "rate":4,
                 "long_description": "The preferred choice of a vast range of acclaimed DJs. Punchy, bass-focused sound and high isolation. Sturdy headband and on-ear cushions suitable for live performance",
                 "color": "#5d1b1d",
