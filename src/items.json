@@ -20,10 +20,10 @@
                 ]
             },
             {
-                "name": "Go For Peach",
-                "img": "assets/lipstick/go%20for%20peach.jpg",
+                "name": "Fiery Fox",
+                "img": "assets/lipstick/fiery%20fox.jpg",
                 "discount": 20,
-                "saleSate": "sold",
+                "saleSate": "In Sale",
                 "price": 10,
                 "rate":3,
                 "long_description": "The preferred choice of a vast range of acclaimed DJs. Punchy, bass-focused sound and high isolation. Sturdy headband and on-ear cushions suitable for live performance",
@@ -36,9 +36,9 @@
             },
             {
                 "name": "Go For Peach",
-                "img": "assets/lipstick/berry%20shy.jpg",
+                "img": "assets/lipstick/go%20for%20peach.jpg",
                 "discount": 20,
-                "saleSate": "sold",
+                "saleSate": "In Sale",
                 "price": 10,
                 "rate":3,
                 "long_description": "The preferred choice of a vast range of acclaimed DJs. Punchy, bass-focused sound and high isolation. Sturdy headband and on-ear cushions suitable for live performance",
