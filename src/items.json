@@ -118,12 +118,42 @@
                 ]
             },
             {
-                "name": "Go For Peach",
-                "img": "assets/lipstick/berry%20shy.jpg",
+                "name": "Vanilla Bean",
+                "img": "assets/Eyeshadows/1.jpg",
                 "discount": 20,
                 "saleSate": "sold",
                 "price": 10,
                 "rate":3,
+                "long_description": "The preferred choice of a vast range of acclaimed DJs. Punchy, bass-focused sound and high isolation. Sturdy headband and on-ear cushions suitable for live performance",
+                "color": "#ff796d",
+                "features": [
+                    "Smudge Free",
+                    "Water Proof",
+                    "Long Last"
+                ]
+            },
+            {
+                "name": "Americano",
+                "img": "assets/Eyeshadows/2.jpg",
+                "discount": 30,
+                "saleSate": "sold",
+                "price": 16,
+                "rate":4.5,
+                "long_description": "The preferred choice of a vast range of acclaimed DJs. Punchy, bass-focused sound and high isolation. Sturdy headband and on-ear cushions suitable for live performance",
+                "color": "#ff796d",
+                "features": [
+                    "Smudge Free",
+                    "Water Proof",
+                    "Long Last"
+                ]
+            },
+            {
+                "name": "Peach Smoothie",
+                "img": "assets/Eyeshadows/3.jpg",
+                "discount": 8,
+                "saleSate": "sold",
+                "price": 13,
+                "rate":4,
                 "long_description": "The preferred choice of a vast range of acclaimed DJs. Punchy, bass-focused sound and high isolation. Sturdy headband and on-ear cushions suitable for live performance",
                 "color": "#ff796d",
                 "features": [
