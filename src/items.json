@@ -38,7 +38,7 @@
                 "name": "Satin Pink",
                 "img": "assets/lipstick/satin%20pink.jpg",
                 "discount": 20,
-                "saleSate": "In Sale",
+                "saleSate": "Sold",
                 "price": 13,
                 "rate":3,
                 "long_description": "The preferred choice of a vast range of acclaimed DJs. Punchy, bass-focused sound and high isolation. Sturdy headband and on-ear cushions suitable for live performance",
@@ -64,6 +64,22 @@
                     "Long Last"
                 ]
             },
+            {
+                "name": "Nude Tease",
+                "img": "assets/lipstick/nude%20tease.jpg",
+                "discount": 9,
+                "saleSate": "In Sale",
+                "price": 24,
+                "rate":3,
+                "long_description": "The preferred choice of a vast range of acclaimed DJs. Punchy, bass-focused sound and high isolation. Sturdy headband and on-ear cushions suitable for live performance",
+                "color": "#a15063",
+                "features": [
+                    "Smudge Free",
+                    "Water Proof",
+                    "Long Last"
+                ]
+            },
+
             {
                 "name": "Go For Peach",
                 "img": "assets/lipstick/go%20for%20peach.jpg",
