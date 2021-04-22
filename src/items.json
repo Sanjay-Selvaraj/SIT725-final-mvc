@@ -27,7 +27,7 @@
                 "price": 10,
                 "rate":3,
                 "long_description": "The preferred choice of a vast range of acclaimed DJs. Punchy, bass-focused sound and high isolation. Sturdy headband and on-ear cushions suitable for live performance",
-                "color": "black",
+                "color": "#a52822",
                 "features": [
                     "Smudge Free",
                     "Water Proof",
@@ -42,7 +42,7 @@
                 "price": 13,
                 "rate":3,
                 "long_description": "The preferred choice of a vast range of acclaimed DJs. Punchy, bass-focused sound and high isolation. Sturdy headband and on-ear cushions suitable for live performance",
-                "color": "black",
+                "color": "#d08aaf",
                 "features": [
                     "Smudge Free",
                     "Water Proof",
@@ -57,7 +57,7 @@
                 "price": 14,
                 "rate":3,
                 "long_description": "The preferred choice of a vast range of acclaimed DJs. Punchy, bass-focused sound and high isolation. Sturdy headband and on-ear cushions suitable for live performance",
-                "color": "black",
+                "color": "#ce576b",
                 "features": [
                     "Smudge Free",
                     "Water Proof",
@@ -125,7 +125,7 @@
                 "price": 10,
                 "rate":3,
                 "long_description": "The preferred choice of a vast range of acclaimed DJs. Punchy, bass-focused sound and high isolation. Sturdy headband and on-ear cushions suitable for live performance",
-                "color": "black",
+                "color": "#ff796d",
                 "features": [
                     "Smudge Free",
                     "Water Proof",
